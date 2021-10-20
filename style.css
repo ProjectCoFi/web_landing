@@ -1,0 +1,18 @@
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #C9EDFF;
+}
+
+.promotion {
+  background-color: #C9EDFF;
+}
+
+section {
+  padding-top: 5rem;
+}
